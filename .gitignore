@@ -38,3 +38,4 @@ logs/
 !data/inference.csv
 data/prep.csv
 data/predictions.csv
+data/trained_columns.json

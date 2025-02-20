@@ -20,7 +20,7 @@ project
 │   ├── prep.csv         # Datos preprocesados* (se debe de ejecutar código)
 │   ├── inference.csv    # Datos de inferencia
 │   ├── predictions.csv  # Predicciones generadas* (se debe de ejecutar código)
-│   ├── trained_columns.json # Columnas usadas en el entrenamiento
+│   ├── trained_columns.json # Columnas usadas en el entrenamiento* (se debe de ejecutar código)
 ├── prep.py             # Script de preprocesamiento
 ├── train.py            # Script de entrenamiento del modelo
 ├── inference.py        # Script de inferencia
